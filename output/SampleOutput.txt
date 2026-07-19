@@ -1,0 +1,22 @@
+======================================
+ EMPLOYEE MANAGEMENT SYSTEM
+======================================
+
+1. Add Employee
+2. Search Employee
+3. Display Company Hierarchy
+4. Count Employees
+5. Update Employee
+6. Delete Employee
+7. Display Employees Under Manager
+8. Display Reporting Chain
+9. Exit
+
+
+Company Hierarchy
+-----------------------
+Amal (CEO)
+   Ashmika (Project Manager)
+      Ajal (Software Developer)
+         Swapna (Software Developer)
+            Sethu (Software Developer)
